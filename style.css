@@ -297,6 +297,9 @@ body{
     margin: 0;
     align-self: center;
 }
+.select p{
+    font-size: 1.5em;
+}
 @media(max-width:600px){
     .contact__l{
         display:grid;
